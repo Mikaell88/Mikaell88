@@ -1,6 +1,6 @@
 # Olá, eu sou Mikael 👋
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas  
+🎓 Formado em Análise e Desenvolvimento de Sistemas   
 📚 Estudante de Engenharia Eletrônica no IFSC  
 💻 Desenvolvedor focado em Web, Dados e Tecnologia  
 📍 Florianópolis - SC, Brasil
