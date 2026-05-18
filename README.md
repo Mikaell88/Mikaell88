@@ -26,7 +26,7 @@
 🔹 [VoltarN3](https://github.com/Mikaell88/VoltarN3)  
 🔹 [API Teste](https://github.com/Mikaell88/apiteste)  
 🔹 [Busca SF](https://github.com/Mikaell88/buscasf)  
-🔹 [Página Aumigo](https://github.com/Mikaell88/paginaAumigo)
+🔹 [Página Aumigo](https://github.com/Mikaell88/paginaAumigo) 
 
 ---
 
