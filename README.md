@@ -30,9 +30,11 @@
 
 ---
 
+
 ## 🌐 Contato
 
+🔗 [LinkedIn](https://www.linkedin.com/in/mikael-sousa-808b98298/)
 
-[LinkedIn](https://www.linkedin.com/in/mikael-sousa-808b98298/)  
+📧 Mikaelsby@outlook.com.br
 
-[Portfólio](https://mikaell88.github.io/minhapagina/)
+🌐 [Portfólio](https://mikaell88.github.io/minhapagina/)
