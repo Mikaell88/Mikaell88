@@ -21,14 +21,17 @@
 
 ## 📌 Projetos em destaque
 
-🔹 Aumigopage  
-🔹 Meu Portfólio  
-🔹 Projeto de Dados  
-🔹 Sistema Login React/NestJS
+🔹 [Meu Portfólio](https://mikaell88.github.io/minhapagina/)  
+🔹 [Au-migo](https://github.com/Mikaell88/Au-migo)  
+🔹 [VoltarN3](https://github.com/Mikaell88/VoltarN3)  
+🔹 [API Teste](https://github.com/Mikaell88/apiteste)  
+🔹 [Busca SF](https://github.com/Mikaell88/buscasf)  
+🔹 [Página Aumigo](https://github.com/Mikaell88/paginaAumigo)
 
 ---
 
 ## 🌐 Contato
 
-[LinkedIn](SEU_LINK_AQUI)  
+
+[LinkedIn](https://www.linkedin.com/in/mikael-sousa-808b98298/)  
 [Portfólio](https://mikaell88.github.io/minhapagina/)
